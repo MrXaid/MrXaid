@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm Zaid Shams</h1>
+<h1 align="center">Hi 👋, I'm Zaid</h1>
 <h3 align="center">A passionate Programmer and developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrxaid" alt="mrxaid" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, dart**
+- 🌱 I’m currently learning **Generative AI, LLMS**
 
-- 💬 Ask me about **Python, Java, C++**
+- 💬 Ask me about **Python, C++, ML, DL**
 
-- 📫 How to reach me **iamzaidshams555@gmail.com**
-
-- ⚡ Fun fact **I sometimes prefer light mode**
-
+- 📫 How to reach me **zk071342@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zaid shams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid shams" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaid shams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
